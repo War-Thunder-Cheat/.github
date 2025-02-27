@@ -1,0 +1,1 @@
+console.log("War Thunder Cheat cheat is active!");
